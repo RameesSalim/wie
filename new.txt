@@ -1,2 +1,27 @@
         git config --global user.name "Ramees Salim"
         git config --global user.email "salim.ramees@gmail.com"
+
+
+
+
+    //Initialising git 
+
+    git init
+
+    //Status
+    
+    git status
+
+    //Stagin File
+
+    git add filename
+
+    //Commiting File
+
+    git commit -m "Message"
+
+    //Pushing to github
+
+    git push origin master
+
+
