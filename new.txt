@@ -14,7 +14,9 @@
 
     //Stagin File
 
-    git add filename
+    git add filename1
+    git add filename2
+
 
     //Commiting File
 
